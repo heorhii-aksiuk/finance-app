@@ -1,17 +1,17 @@
 
-# React Test Task
+# React Finance App
 
 ## Requirements
 
-We need you to implement a solution to display price tickers data on the UI in realtime.
+Нам нужно, чтобы вы реализовали решение для отображения данных котировок в пользовательском интерфейсе в режиме реального времени.
 
-Price data is available from a locally running service (see information below). Any additional visualisations to indicate how prices have changed would be a plus. Testing is also an important part to this exercise.
+Данные о ценах доступны в локальном сервисе (см. информацию ниже). Любые дополнительные визуализации, показывающие, как изменились цены, будут плюсом. Тестирование также является важной частью этого задания.
 
-Requirements:
-- application should connect to the locally running service
-- application should render price changes for some tickers in real time
+Требования:
+- приложение должно подключаться к локально работающему сервису ???
+- приложение должно отображать изменения цен для некоторых тикеров в режиме реального времени
 
-You can get some ideas how your application may look like on the [Google Finance](https://www.google.com/finance/) page.
+Вы можете получить представление о том, как может выглядеть ваше приложение, на странице [Google Финансы](https://www.google.com/finance/).
 
 As a bonus you can implement (please describe implemented bonus functionality in this file):
 - any additional visual effects to highlight positive or negative changes in the prices
