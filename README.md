@@ -5,7 +5,7 @@
 
 Нам нужно, чтобы вы реализовали решение для отображения данных котировок в пользовательском интерфейсе в режиме реального времени.
 
-Данные о ценах доступны в локальном сервисе (см. информацию ниже). Любые дополнительные визуализации, показывающие, как изменились цены, будут плюсом. Тестирование также является важной частью этого задания.
+Данные о ценах доступны в локальном сервисе (см. информацию ниже). Любые дополнительные визуализации, показывающие, как изменились цены, будут плюсом. Тестирование также является важной частью этого задания. 
 
 Требования:
 - приложение должно подключаться к локально работающему сервису ???
@@ -13,19 +13,19 @@
 
 Вы можете получить представление о том, как может выглядеть ваше приложение, на странице [Google Финансы](https://www.google.com/finance/).
 
-As a bonus you can implement (please describe implemented bonus functionality in this file):
-- any additional visual effects to highlight positive or negative changes in the prices
-- the possibility to switch on/off tickers by user
-- the possibility to specify interval time by user
-- the possibility to add/remove ticker from watching group
-- any additional functionality you consider useful
+В качестве бонуса вы можете реализовать (пожалуйста, опишите реализованный бонусный функционал в этом файле):
+- любые дополнительные визуальные эффекты для выделения положительных или отрицательных изменений цен
+- возможность включать/выключать тикеры пользователем
+- возможность указать время интервала пользователем ???
+- возможность добавить/удалить бегущую строку из группы просмотра ???
+- любые дополнительные функции, которые вы считаете полезными
 
-You should use the next technologies:
-- React (preferable with hooks)
-- Redux (with Redux-Thunk or any other Redux middleware you are familiar) or any other state-manager library you want
-- Socket.io - to connect to the service
-- any UI library you want, or you can use just pure CSS
-- Testing Library
+Вы должны использовать следующие технологии:
+- React (желательно с hooks)
+- Redux (с Redux-Thunk или любими дргуими Redux прослойки с которыми вы знакомы) или любую другую библиотеку управления состоянием, которую вы хотите
+- Socket.io - для подключения к сервису ???
+- любая UI-библиотека, которую вы хотите, или вы можете использовать только чистый CSS
+- Библиотека тестирования
 
 We will assess the next parts:
 - workability: how your application works
